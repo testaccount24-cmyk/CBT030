@@ -1,0 +1,6 @@
+2025-04-04 02:17:15.555140 - Received CBT.V508.FILE030.PDS from FILE030.XMI 
+2025-04-04 02:17:15.555846 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$#DATE
+2025-04-04 02:17:15.555995 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/$$$DOC
+2025-04-04 02:17:15.556122 - Found @FILE030.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/@FILE030
+2025-04-04 02:17:15.556251 - Found NPFKU01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKU01
+2025-04-04 02:17:15.556375 - Found NPFKX01.txt (text/plain) in CBT.V508.FILE030.PDS, moved to PDS/NPFKX01
